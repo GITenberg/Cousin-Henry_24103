@@ -1,0 +1,35 @@
+_repo: Cousin-Henry_24103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Cousin Henry is a novel by Anthony Trollope first published in 1879.\
+  \ The story deals with the trouble arising from the indecision of a squire in choosing\
+  \ an heir to his estate.\nOf all Trollope's shorter novels, this one has been called\
+  \ one of his most experimental.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24103'
+  wikidata: Q5178818
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Wales -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+title: Cousin Henry
+url: http://www.gutenberg.org/ebooks/24103
+wikipedia:
+- https://en.wikipedia.org/wiki/Cousin_Henry
