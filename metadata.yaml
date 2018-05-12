@@ -15,6 +15,8 @@ description: "Cousin Henry is a novel by Anthony Trollope first published in 187
   \ The story deals with the trouble arising from the indecision of a squire in choosing\
   \ an heir to his estate.\nOf all Trollope's shorter novels, this one has been called\
   \ one of his most experimental.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24103#Cousin-Henry
 gutenberg_issued: '2008-01-01'
 gutenberg_type: Text
 identifiers:
